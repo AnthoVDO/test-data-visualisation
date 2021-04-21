@@ -7,4 +7,4 @@ I'm learning Data visualisation
 [Part4](https://vizhub.com/AnthoVDO/8df068c6d7734561a9e87f27b3f84829)
 [Part5](https://vizhub.com/AnthoVDO/2c32032de7d647dd86718f55dc509d57)
 [Part6](https://vizhub.com/AnthoVDO/08505baa1cc647edb2eacc40c48deb69)
-[Part7]()
+[Part7](https://vizhub.com/AnthoVDO/997ae75f1a814269bd438ce5fdee0358)
